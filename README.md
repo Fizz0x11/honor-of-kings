@@ -49,7 +49,7 @@
 ## 📂 目录结构
 
 ```
-warcraft-coach/
+honor-of-kings/
 ├── SKILL.md                    # 核心技能文件（YAML + Markdown）
 ├── README.md                   # 本文件
 ├── evals/
@@ -131,7 +131,7 @@ This skill activates when you ask about Honor of Kings strategies:
 ## 📂 Structure
 
 ```
-warcraft-coach/
+honor-of-kings/
 ├── SKILL.md                    # Core skill file
 ├── README.md                   # Bilingual introduction
 ├── evals/                      # Evaluation data
