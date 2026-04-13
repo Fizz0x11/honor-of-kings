@@ -1,10 +1,12 @@
-# 🏆 Warcraft Coach - 王者荣耀职业教练
+# 🏆 Honor of Kings Coach - 王者荣耀职业教练
 
 > *"不坑队友，从理解游戏开始。"*
 
 <div align="center">
 
 ![Honor of Kings](https://img.shields.io/badge/Game-王者荣耀-orange)
+![HoK](https://img.shields.io/badge/HoK-腾讯天美全球发行-blue)
+![Asian Games](https://img.shields.io/badge/亚运会-电竞项目-gold)
 ![Skill Format](https://img.shields.io/badge/Format-OpenCode%20Skill-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -14,7 +16,9 @@
 
 ## 🎮 项目介绍
 
-**Warcraft Coach** 是一个基于 OpenCode 平台的王者荣耀 AI 教练技能，汇聚职业级游戏理解，助你从青铜迈向王者！
+**Honor of Kings Coach (HoK Coach)** 是一个基于 OpenCode 平台的王者荣耀 AI 教练技能。
+
+> **关于游戏**：Honor of Kings（简称 HoK）是腾讯天美官方全球发行版，玩法、地图、核心英雄与国服高度一致，仅做界面与内容本地化，已入选亚运会电竞项目。
 
 ### ✨ 核心特性
 
